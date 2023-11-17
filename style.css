@@ -366,11 +366,11 @@ header {
     position: relative;
     z-index: 10;
     margin: 0 auto;
-    width: 70px;
+    width: 85px;
 }
 
 .scl-ico .s-pdng {
-    padding-right: 17px;
+    padding-right: 30px;
 }
 
 
@@ -426,10 +426,6 @@ header {
 
 .blog-text h3 {
     margin-bottom: 25px;
-}
-
-.srvc-ext{
-    height: 540px;
 }
 
 .srvc-ext2{
@@ -499,7 +495,6 @@ header {
 
 
 .service-dtls {
-    height: 270px;
     display: block;
     flex-direction: column;
     justify-content: space-between;
@@ -719,12 +714,12 @@ i{
 
 .bottom-copy .scl-ico {
     margin: 0 auto;
-    width: 100px;
+    width: 115px;
     padding-top: 45px;
 }
 
 .bottom-copy .scl-ico a {
-    padding: 0 20px 0 0;
+    padding: 0 30px 0 0;
 }
 
 /* End Footer  */
