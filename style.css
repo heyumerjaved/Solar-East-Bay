@@ -719,12 +719,12 @@ i{
 
 .bottom-copy .scl-ico {
     margin: 0 auto;
-    width: 90px;
+    width: 100px;
     padding-top: 45px;
 }
 
 .bottom-copy .scl-ico a {
-    padding: 0 15px 0 0;
+    padding: 0 20px 0 0;
 }
 
 /* End Footer  */
@@ -733,6 +733,7 @@ i{
 .round {
     border-radius: 5px;
 }
+
 
 @media(min-width: 640px) {
     .pb-15 {
